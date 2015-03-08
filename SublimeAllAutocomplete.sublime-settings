@@ -1,0 +1,5 @@
+{
+	"apply_with_dash_hack_syntaxes": ["source.scss","source.sass","source.css"],
+	"return_nothing_on_empty_prefix": true,
+	"do_not_search_in_current_view": false
+}
